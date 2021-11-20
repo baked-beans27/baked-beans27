@@ -1,0 +1,3 @@
+-  Hi, I’m @baked-beans27
+- I’m interested in popbobbing on minecraft
+-  I’m currently learning c++
